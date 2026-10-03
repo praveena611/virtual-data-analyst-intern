@@ -210,7 +210,7 @@ Rscript R/07_final_analysis.R
 
 ## 👤 Author
 
-* **Intern / Data Analyst**: **praveena611**
+* **Intern **: **praveena611**
 * **GitHub**: [@praveena611](https://github.com/praveena611)
 * **Program**: YuvaIntern Virtual R Data Analyst Internship
 
