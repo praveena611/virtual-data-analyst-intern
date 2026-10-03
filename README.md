@@ -3,7 +3,6 @@
 [![R Version](https://img.shields.io/badge/R-4.4%2B-blue.svg)](https://cloud.r-project.org/)
 [![YuvaIntern](https://img.shields.io/badge/Internship-YuvaIntern%20Virtual%20Analytics-orange.svg)](https://yuvaintern.com/)
 [![Dataset](https://img.shields.io/badge/Dataset-NYC%20TLC%20Yellow%20Taxi-yellow.svg)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-[![Status](https://img.shields.io/badge/Status-Completed%20(Weeks%201--4)-brightgreen.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An industrial-grade, reproducible Data Analytics and Machine Learning project developed for the **YuvaIntern Virtual R Data Analyst Internship (Weeks 1–4)**. This project analyzes **9,554,778 raw trip records** from the NYC Taxi and Limousine Commission (TLC) using out-of-core streaming pipelines, statistical inference, publication-grade ggplot2 visualizations, and predictive classification modeling.
