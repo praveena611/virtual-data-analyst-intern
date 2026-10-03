@@ -1,0 +1,4 @@
+"file_name","size_mb","rows"
+"yellow_tripdata_2024-01.parquet",47.65,2964624
+"yellow_tripdata_2024-02.parquet",48.02,3007526
+"yellow_tripdata_2024-03.parquet",57.3,3582628

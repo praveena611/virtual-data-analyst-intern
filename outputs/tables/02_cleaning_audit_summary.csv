@@ -1,0 +1,7 @@
+"Metric","Value"
+"Total Raw Records","9,554,778"
+"Missing Values Removed","751,962"
+"Outliers & Anomalies Removed","553,182"
+"Total Cleaned Population","8,249,634"
+"Analytical Sample Rows","412,481"
+"Retention Rate (%)","86.34%"

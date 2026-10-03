@@ -1,0 +1,10 @@
+"Metric","Value"
+"Accuracy",0.9906
+"Sensitivity (Recall)",0.9688
+"Specificity",0.9953
+"Precision (PPV)",0.9784
+"F1-Score",0.9736
+"Balanced Accuracy",0.9821
+"Area Under ROC Curve (AUC)",0.9992
+"5-Fold CV Accuracy Mean",0.9901
+"5-Fold CV AUC Mean",0.9992
